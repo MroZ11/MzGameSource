@@ -1,5 +1,5 @@
 # MzGameSource
-Mz个人游戏攻略站源码 项目基于[VuePress](https://diablo4.blizzard.com/)
+Mz个人游戏攻略站源码 项目基于[VuePress](https://vuepress.vuejs.org/zh/)
 ```
 npm init
 
